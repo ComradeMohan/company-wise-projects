@@ -113,3 +113,8 @@ BEST OPEN SOURCE PROJECTS: https://dev.to/arindam_1729/top-5-open-source-project
 | **TikTok**              | AI-Powered Content Recommendation and User Engagement System                               | Real-Time Video Content Moderation and Spam Detection Tool                                   | Personalized Video Feed Based on User Behavior                                         |
 | **Zeta Suite**          | AI-Based Banking and Financial Services Platform                                           | Real-Time Transaction Risk Monitoring and Fraud Detection                                    | Predictive Analytics for Customer Spending Behavior and Credit Risk                     |
 
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-company-wise-projects/count.svg" />
+</p>
